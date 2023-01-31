@@ -1090,6 +1090,7 @@ body.light hr.separator {
 
 .contact .contactform .output_message.success {
 	background: #28a745;
+	/* background: red; */
 }
 
 .contact .contactform .output_message.success:before {
