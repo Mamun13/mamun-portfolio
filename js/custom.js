@@ -20,9 +20,9 @@
 		/*  STOP VIDEOS
         /* ----------------------------------------------------------- */
 
-		$('.slideshow nav span').on('click', function () {
-			stop_videos();
-		});
+		// $('.slideshow nav span').on('click', function () {
+		// 	stop_videos();
+		// });
 
 		/* ----------------------------------------------------------- */
 		/*  FIX REVEALATOR ISSUE AFTER PAGE LOADED
